@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the **Restaurant Menu Scraper** project! This script has been carefully crafted to revolutionize the way you extract menu data. Whether you're a restaurant owner, a data analyst, or a researcher, this tool is designed to make menu data extraction effortless and efficient.
+Welcome to the **Restaurant Menu Scraper** project! This script has been carefully crafted to ease the way you extract menu data. Whether you're a restaurant owner, a data analyst, or a researcher, this tool is designed to make menu data extraction effortless and efficient.
 
 Website Scrapped From: [Demo Azul Mexicanos Summerville](https://demoazulmexicanosummerville.onlineordersnow.com/MenuDisplay)
 
