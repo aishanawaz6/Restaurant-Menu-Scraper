@@ -16,7 +16,7 @@ Website Scrapped From: [Demo Azul Mexicanos Summerville](https://demoazulmexican
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine.
 
-2. **Install Dependencies:** Follow the installation instructions provided in the repository to install the necessary dependencies.
+2. **Install Dependencies:**  Install the necessary dependencies.
 
 3. **Configuration:** Customize the script's configuration by providing the URL of the restaurant's menu page and specifying the desired CSV file name.
 
@@ -24,7 +24,7 @@ Website Scrapped From: [Demo Azul Mexicanos Summerville](https://demoazulmexican
 
 ## Why Use the Restaurant Menu Scraper
 
-- **Time-Saving:** Manual data extraction is time-consuming. Our script automates the process, allowing you to focus on more important tasks.
+- **Time-Saving:** Manual data extraction is time-consuming. This script automates the process, allowing you to focus on more important tasks.
 
 - **Data Accuracy:** Eliminate the risk of human error. The script ensures accurate and consistent data extraction.
 
